@@ -28,16 +28,16 @@
 <p align="center">
   <table>
     <tr>
-      <th>Prompt (first frame)</th>
-      <th>Video segmentation</th>
+      <th style="text-align:center">Prompt (first frame)</th>
+      <th style="text-align:center">Video segmentation</th>
     </tr>
     <tr>
-      <td><div align="center"><img src="https://github.com/AngeLouCN/SAM-2_Surgical_Video/blob/main/result/cutting_prompt.png" width="240" alt="Result"/></div></td>
-      <td><div align="center"><img src="https://github.com/AngeLouCN/SAM-2_Surgical_Video/blob/main/result/cutting_output.gif" width="240" alt="Result"/></div></td>
+      <td style="text-align:center"><img src="https://github.com/AngeLouCN/SAM-2_Surgical_Video/blob/main/result/cutting_prompt.png" width="240" alt="Result"/></td>
+      <td style="text-align:center"><img src="https://github.com/AngeLouCN/SAM-2_Surgical_Video/blob/main/result/cutting_output.gif" width="240" alt="Result"/></td>
     </tr>
     <tr>
-      <td><div align="center"><img src="https://github.com/AngeLouCN/SAM-2_Surgical_Video/blob/main/result/pulling_prompt.png" width="240" alt="Result"/></div></td>
-      <td><div align="center"><img src="https://github.com/AngeLouCN/SAM-2_Surgical_Video/blob/main/result/pulling_output.gif" width="240" alt="Result"/></div></td>
+      <td style="text-align:center"><img src="https://github.com/AngeLouCN/SAM-2_Surgical_Video/blob/main/result/pulling_prompt.png" width="240" alt="Result"/></td>
+      <td style="text-align:center"><img src="https://github.com/AngeLouCN/SAM-2_Surgical_Video/blob/main/result/pulling_output.gif" width="240" alt="Result"/></td>
     </tr>
   </table>
 </p>
@@ -49,16 +49,16 @@
 <p align="center">
   <table>
     <tr>
-      <th>Prompt (first frame)</th>
-      <th>Video segmentation</th>
+      <th style="text-align:center">Prompt (first frame)</th>
+      <th style="text-align:center">Video segmentation</th>
     </tr>
     <tr>
-      <td><div align="center"><img src="https://github.com/AngeLouCN/SAM-2_Surgical_Video/blob/main/result/endovis17_1_prompt.png" width="240" alt="Result"/></div></td>
-      <td><div align="center"><img src="https://github.com/AngeLouCN/SAM-2_Surgical_Video/blob/main/result/endovis17_1.gif" width="240" alt="Result"/></div></td>
+      <td style="text-align:center"><img src="https://github.com/AngeLouCN/SAM-2_Surgical_Video/blob/main/result/endovis17_1_prompt.png" width="240" alt="Result"/></td>
+      <td style="text-align:center"><img src="https://github.com/AngeLouCN/SAM-2_Surgical_Video/blob/main/result/endovis17_1.gif" width="240" alt="Result"/></td>
     </tr>
     <tr>
-      <td><div align="center"><img src="https://github.com/AngeLouCN/SAM-2_Surgical_Video/blob/main/result/endovis17_3_prompt.png" width="240" alt="Result"/></div></td>
-      <td><div align="center"><img src="https://github.com/AngeLouCN/SAM-2_Surgical_Video/blob/main/result/endovis17_3.gif" width="240" alt="Result"/></div></td>
+      <td style="text-align:center"><img src="https://github.com/AngeLouCN/SAM-2_Surgical_Video/blob/main/result/endovis17_3_prompt.png" width="240" alt="Result"/></td>
+      <td style="text-align:center"><img src="https://github.com/AngeLouCN/SAM-2_Surgical_Video/blob/main/result/endovis17_3.gif" width="240" alt="Result"/></td>
     </tr>
   </table>
 </p>
@@ -70,16 +70,16 @@
 <p align="center">
   <table>
     <tr>
-      <th>Prompt (first frame)</th>
-      <th>Video segmentation</th>
+      <th style="text-align:center">Prompt (first frame)</th>
+      <th style="text-align:center">Video segmentation</th>
     </tr>
     <tr>
-      <td><div align="center"><img src="https://github.com/AngeLouCN/SAM-2_Surgical_Video/blob/main/result/driling_vumc_prompt.png" width="240" alt="Result"/></div></td>
-      <td><div align="center"><img src="https://github.com/AngeLouCN/SAM-2_Surgical_Video/blob/main/result/driling_vumc.gif" width="240" alt="Result"/></div></td>
+      <td style="text-align:center"><img src="https://github.com/AngeLouCN/SAM-2_Surgical_Video/blob/main/result/driling_vumc_prompt.png" width="240" alt="Result"/></td>
+      <td style="text-align:center"><img src="https://github.com/AngeLouCN/SAM-2_Surgical_Video/blob/main/result/driling_vumc.gif" width="240" alt="Result"/></td>
     </tr>
     <tr>
-      <td><div align="center"><img src="https://github.com/AngeLouCN/SAM-2_Surgical_Video/blob/main/result/insertion_vumc_prompt.png" width="240" alt="Result"/></div></td>
-      <td><div align="center"><img src="https://github.com/AngeLouCN/SAM-2_Surgical_Video/blob/main/result/insertion_vumc.gif" width="240" alt="Result"/></div></td>
+      <td style="text-align:center"><img src="https://github.com/AngeLouCN/SAM-2_Surgical_Video/blob/main/result/insertion_vumc_prompt.png" width="240" alt="Result"/></td>
+      <td style="text-align:center"><img src="https://github.com/AngeLouCN/SAM-2_Surgical_Video/blob/main/result/insertion_vumc.gif" width="240" alt="Result"/></td>
     </tr>
   </table>
 </p>
@@ -87,4 +87,3 @@
 <p align="center">
   This is an example of images and GIFs displayed in the same row with column names and dataset names, centered in the README.
 </p>
-
