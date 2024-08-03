@@ -1,5 +1,5 @@
-# SAM-2_Surgical_Video
-Segment Anything 2 for Surgical Video Segmentation
+# Zero-Shot Surgical Tool Segmentation in Monocular Video Using Segment Anything Model 2
+**Paper**: Coming soon!
 
 **EndoNeRF Dataset**
 |Prompt (first frame) | Video segmentation |
