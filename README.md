@@ -1,12 +1,12 @@
 # Zero-Shot Surgical Tool Segmentation in Monocular Video Using Segment Anything Model 2
 **Paper**: Coming soon!
-<div align=center>
+
 **EndoNeRF Dataset**
 |Prompt (first frame) | Video segmentation |
 | :---: | :---: |
 |<div align=center><img src="https://github.com/AngeLouCN/SAM-2_Surgical_Video/blob/main/result/cutting_prompt.png" width="240" alt="Result"/></div>|<div align=center><img src="https://github.com/AngeLouCN/SAM-2_Surgical_Video/blob/main/result/cutting_output.gif" width="240" alt="Result"/></div>|
 |<div align=center><img src="https://github.com/AngeLouCN/SAM-2_Surgical_Video/blob/main/result/pulling_prompt.png" width="240" alt="Result"/></div>|<div align=center><img src="https://github.com/AngeLouCN/SAM-2_Surgical_Video/blob/main/result/pulling_output.gif" width="240" alt="Result"/></div>|
-</div>
+
 
 **EndoVis'17 Segmentation Dataset** (We focus more on the insertion and driling tools)
 |Prompt (first frame) | Video segmentation |
