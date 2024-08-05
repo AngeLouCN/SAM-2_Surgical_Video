@@ -1,6 +1,8 @@
 # Zero-Shot Surgical Tool Segmentation in Monocular Video Using Segment Anything Model 2
 **Paper**: Coming soon!
 
+'''Code can be used directily'''
+
 **EndoNeRF Dataset**
 |Prompt (first frame) | Video segmentation |
 | :---: | :---: |
