@@ -1,13 +1,14 @@
 # Zero-Shot Surgical Tool Segmentation in Monocular Video Using Segment Anything Model 2
 
-**:fire: NEWS :fire:**
+## 🚨 News
 **The paper is available:** [Arxiv](https://arxiv.org/pdf/2408.01648)
 
-## Installation & Usage
+## 🧐 Installation & Usage
 ```
 Directly use .ipynb file
 ```
 
+ ## 🎯 Example Cases
 **EndoNeRF Dataset**
 |Prompt (first frame) | Video segmentation |
 | :---: | :---: |
@@ -31,3 +32,16 @@ Directly use .ipynb file
 | :---: | :---: |
 |<div align=center><img src="https://github.com/AngeLouCN/SAM-2_Surgical_Video/blob/main/result/driling_vumc_prompt.png" width="360" alt="Result"/></div>|<div align=center><img src="https://github.com/AngeLouCN/SAM-2_Surgical_Video/blob/main/result/driling_vumc.gif" width="360" alt="Result"/></div>|
 |<div align=center><img src="https://github.com/AngeLouCN/SAM-2_Surgical_Video/blob/main/result/insertion_vumc_prompt.png" width="360" alt="Result"/></div>|<div align=center><img src="https://github.com/AngeLouCN/SAM-2_Surgical_Video/blob/main/result/insertion_vumc.gif" width="360" alt="Result"/></div>|
+
+## 📝 Cite
+ ~~~
+@misc{lou2024zeroshotsurgicaltoolsegmentation,
+      title={Zero-Shot Surgical Tool Segmentation in Monocular Video Using Segment Anything Model 2}, 
+      author={Ange Lou and Yamin Li and Yike Zhang and Robert F. Labadie and Jack Noble},
+      year={2024},
+      eprint={2408.01648},
+      archivePrefix={arXiv},
+      primaryClass={eess.IV},
+      url={https://arxiv.org/abs/2408.01648}, 
+}
+ ~~~
