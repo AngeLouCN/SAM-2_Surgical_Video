@@ -1,5 +1,7 @@
 # Zero-Shot Surgical Tool Segmentation in Monocular Video Using Segment Anything Model 2
-**Paper**: Coming soon!
+
+**:fire: NEWS :fire:**
+**The paper is available:** [Arxiv](https://arxiv.org/pdf/2408.01648)
 
 ## Installation & Usage
 ```
