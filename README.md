@@ -27,7 +27,7 @@ Directly use .ipynb file
 | :---: | :---: |
 |<div align=center><img src="https://github.com/AngeLouCN/SAM-2_Surgical_Video/blob/main/result/surgtoolloc22_prompt.png" width="360" alt="Result"/></div>|<div align=center><img src="https://github.com/AngeLouCN/SAM-2_Surgical_Video/blob/main/result/surgtoolloc22.gif" width="360" alt="Result"/></div>|
 
-**Cochlear Implant Dataset** (We focus more on the insertion and driling tools)
+**Cochlear Implant Dataset** (We focus more on the insertion and drilling tools)
 |Prompt (first frame) | Video segmentation |
 | :---: | :---: |
 |<div align=center><img src="https://github.com/AngeLouCN/SAM-2_Surgical_Video/blob/main/result/driling_vumc_prompt.png" width="360" alt="Result"/></div>|<div align=center><img src="https://github.com/AngeLouCN/SAM-2_Surgical_Video/blob/main/result/driling_vumc.gif" width="360" alt="Result"/></div>|
